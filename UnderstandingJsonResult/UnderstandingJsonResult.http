@@ -1,0 +1,6 @@
+@UnderstandingJsonResult_HostAddress = http://localhost:5127
+
+GET {{UnderstandingJsonResult_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
